@@ -20,7 +20,7 @@ body {
 
 .game-over {
   text-align: center;
-  color: #666;
+  color: rgb(143, 0, 0);
   margin: 50px 0;
   font-family: arial;
 }
